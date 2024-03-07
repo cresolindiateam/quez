@@ -1,0 +1,133 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+.elementor-807 .elementor-element.elementor-element-164c5d0{width:1345px;}
+
+.elementor-711 .elementor-element.elementor-element-f72226c{background:#1f1d1f}
+
+body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull))
+{
+	max-width:100%!important
+}
+.has-global-padding{padding-left:unset!important;padding-right:unset!important}
+
+.has-global-padding{padding-right:unset!important}
+.elementor-70 .elementor-element.elementor-element-4bd08894 img{display:none;}
+
+body:not(.rtl) .elementor-70 .elementor-element.elementor-element-3c48dfde{background:#fff;}
+
+.elementor-137 .elementor-element.elementor-element-258234fd{top:600px!important;}
+.elementor-137 .elementor-element.elementor-element-3d0b6de8{margin-top:100px}
+
+
+
+body:not(.rtl) .elementor-137 .elementor-element.elementor-element-55bdb38e{left:20px}
+.elementor-137 .elementor-element.elementor-element-57398d13{width:1368px;
+}
+.wp-block-template-part,.wp-block-group-is-layout-constrained{display:none}
+.elementor-711 .elementor-element.elementor-element-43b35ef{display:none;}
+.wp-block-group-is-layout-flow{margin-block-start:0px!important}
+.elementor-711 .elementor-element.elementor-element-396fe834{margin-top:180px;}
+
+body:not(.rtl) .elementor-711 .elementor-element.elementor-element-5bb3e6ed{position:relative;}
+
+.elementor-711 .elementor-element.elementor-element-38342945 .elementor-heading-title{color:#fff;}
+body:not(.rtl) .elementor-705 .elementor-element.elementor-element-18f6597f{display:none;}
+.elementor-705 .elementor-element.elementor-element-4c3ba06d:not(.elementor-motion-effects-element-type-background){display:none;}
+.elementor-element-37fe31d{background:#1F1D1F!important,--widgets-spacing: 56px 20px!important;}
+.elementor-element-38342945,.elementor-element-29d978e,.elementor-element-15cc3e5,.elementor-element-d72e818,.elementor-element-0868358{display:none!important}
+.elementor-element-9c61323{background:#1F1D1F;}
+.elementor-807 .elementor-element.elementor-element-4bfab4fe{display:none;}
+.elementor-807 .elementor-element.elementor-element-2d9710cf{min-height:2900px;
+}
+.elementor-element-2f279aa1{display:none;}
+.elementor-element-4172e8e9{background:#fff;}
+body:not(.rtl) .elementor-807 .elementor-element.elementor-element-203eb08a{left:45px;}
+@media (max-width: 767px) {
+	.elementor-711 .elementor-element.elementor-element-52f46d8{min-height:325px;}
+	.elementor-711 .elementor-element.elementor-element-55b918ce{min-height:1926px!important;}
+	body:not(.rtl) .elementor-711 .elementor-element.elementor-element-52f46d8{top:650px;}
+	.elementor-711 .elementor-element.elementor-element-55b9b056{--container-widget-width:100%;text-align:center;}
+	body:not(.rtl) .elementor-711 .elementor-element.elementor-element-4f82809f{left:0px;}
+	body:not(.rtl) .elementor-711 .elementor-element.elementor-element-63849e36{left:0px;width:100%}
+	body:not(.rtl) .elementor-711 .elementor-element.elementor-element-460adab{left:0px;width:100%;--gap:unset;}
+	
+	.elementor-807 .elementor-element.elementor-element-721c5b1e .elementor-heading-title{font-size:1rem;}
+	.elementor-807 .elementor-element.elementor-element-3dc4bab4 .elementor-heading-title{font-size: 14.64px;}
+	.elementor-807 .elementor-element.elementor-element-13478d7e .elementor-heading-title{font-size:14.64px;}
+	
+	.elementor-807 .elementor-element.elementor-element-30441f1b .elementor-heading-title{font-size:14.64px;}
+	
+	
+	.elementor-807 .elementor-element.elementor-element-4172e8e9
+	{
+		--padding-block-start: 24.4px;
+	}
+	.elementor-807 .elementor-element.elementor-element-164c5d0 {
+    width: unset;
+}
+	body:not(.rtl) .elementor-807 .elementor-element.elementor-element-15bcf74 {
+    left: 0;
+    margin: auto;
+    width: 100%;
+	}
+	.elementor-807 .elementor-element.elementor-element-46f30bea img{height:auto;width:100%}
+	.elementor-807 .elementor-element.elementor-element-52f5e45f img{height:auto;width:100%}
+	.elementor-807 .elementor-element.elementor-element-59fcbce4 img{height:auto;width:100%}
+	
+	body:not(.rtl) .elementor-807 .elementor-element.elementor-element-22372662{left:0;}
+	
+	.elementor-807 .elementor-element.elementor-element-3b4b1f3c .elementor-heading-title{font-size:3rem;}
+	
+	
+	body:not(.rtl) .elementor-807 .elementor-element.elementor-element-203eb08a {
+    left: 0;
+		margin:auto;text-align:center;
+    --gap: unset;
+    --flex-direction: unset;
+    top: 280px;
+}
+	
+	body:not(.rtl) .elementor-711 .elementor-element.elementor-element-f54a0ec{left:0;}
+	.elementor-711 .elementor-element.elementor-element-396fe834{margin-top:225px;}
+	.elementor-711 .elementor-element.elementor-element-55b918ce{min-height:1235px;}
+	body:not(.rtl) .elementor-711 .elementor-element.elementor-element-3da0f929{left:0;}
+	
+	.elementor-711 .elementor-element.elementor-element-a8d0485 img{display:none;}
+    .elementor-807 .elementor-element.elementor-element-51bd90b3 img {
+        width: 100%; /* Ensures image takes full width of the viewport */
+        height: auto; /* Maintains aspect ratio */
+    }
+	.elementor-807 .elementor-element.elementor-element-2707d6d3 img
+	{
+		width: 100%; /* Ensures image takes full width of the viewport */
+        height: auto; /* Maintains aspect ratio */
+	}
+	.elementor-807 .elementor-element.elementor-element-2886b1de img
+	{
+		width: 100%; /* Ensures image takes full width of the viewport */
+        height: auto; /* Maintains aspect ratio */
+	}
+	body:not(.rtl) .elementor-807 .elementor-element.elementor-element-2886b1de{display:none;}
+	body:not(.rtl) .elementor-807 .elementor-element.elementor-element-3b4b1f3c{left:0}
+	body:not(.rtl) .elementor-807 .elementor-element.elementor-element-49c0799b{left:0}
+
+	.elementor-711 .elementor-element.elementor-element-85ff7de img{width:100%;height:auto;}
+.elementor-711 .elementor-element.elementor-element-3b651237 img{width:100%;height:auto;}
+	
+	.elementor-711 .elementor-element.elementor-element-27b27dec img{width:100%;height:auto;}
+}
+
+
+
+</style>
+<!-- end Simple Custom CSS and JS -->
