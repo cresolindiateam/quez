@@ -10,6 +10,17 @@ For example:
 For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
 
 End of comment */ 
+.elementor-887 .elementor-element.elementor-element-1b8eee72{width:unset;}
+.elementor-887 .elementor-element.elementor-element-79431ef3{width:unset!important;}
+.elementor-887 .elementor-element.elementor-element-79431ef3{width:unset;}
+.elementor-711 .elementor-element.elementor-element-f54a0ec{width:100%;}
+.elementor-711 .elementor-element.elementor-element-55b918ce{width:100%;}
+
+
+.elementor-807 .elementor-element.elementor-element-203eb08a{width:96%;}
+.elementor-807 .elementor-element.elementor-element-164c5d0{width:unset;}
+.elementor-807 .elementor-element.elementor-element-164c5d0{width:unset!important;}
+
 .elementor-887 .elementor-element.elementor-element-2db408aa{width:100%;}
 .elementor-887 .elementor-element.elementor-element-717ae91a{width:100%;}
 
@@ -81,6 +92,8 @@ body:not(.rtl) .elementor-705 .elementor-element.elementor-element-18f6597f{disp
 
 @media (max-width: 767px) {
 	
+	.elementor-887 .elementor-element.elementor-element-16acc9d0{--container-widget-width: 100%;}
+	.elementor-887 .elementor-element.elementor-element-380ac1df{--container-widget-width: 100%;}
 	.elementor-887 .elementor-element.elementor-element-879f484 img{width:100%;height:auto;}
 	
 	body:not(.rtl) .elementor-887 .elementor-element.elementor-element-16acc9d0{left:0px;}
