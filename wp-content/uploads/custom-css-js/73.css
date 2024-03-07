@@ -10,8 +10,32 @@ For example:
 For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
 
 End of comment */ 
-.elementor-807 .elementor-element.elementor-element-164c5d0{width:1345px;}
+.elementor-887 .elementor-element.elementor-element-2db408aa{width:100%;}
+.elementor-887 .elementor-element.elementor-element-717ae91a{width:100%;}
 
+body:not(.rtl) .elementor-887 .elementor-element.elementor-element-1b8eee72
+{
+  left: calc(50% + -625px);	
+}
+.elementor-887 .elementor-element.elementor-element-4799fd0d{width:100%;}
+body:not(.rtl) .elementor-807 .elementor-element.elementor-element-203eb08a {
+    left: calc(50% + -628px);
+}
+body:not(.rtl) .elementor-711 .elementor-element.elementor-element-460adab
+{left: calc(50% + -620px);
+	
+}
+
+.elementor-887 .elementor-element.elementor-element-33a9217c{width:100%;}
+body:not(.rtl) .elementor-807 .elementor-element.elementor-element-15bcf74{width:100%;left:unset;}
+.elementor-711 .elementor-element.elementor-element-7b4a0ed8{width:100%;}
+.elementor-711 .elementor-element.elementor-element-5bb3e6ed{--width:100%;}
+.elementor-807 .elementor-element.elementor-element-4172e8e9{width:100%;}
+.elementor-807 .elementor-element.elementor-element-136bdfe3{width:100%;}
+.elementor-807 .elementor-element.elementor-element-1f4f443c{width:100%;}
+.elementor-807 .elementor-element.elementor-element-7a0cbaad{width:100%;}
+.elementor-807 .elementor-element.elementor-element-164c5d0{width:1345px;}
+.elementor-807 .elementor-element.elementor-element-7fa5646c{width:100%;}
 .elementor-711 .elementor-element.elementor-element-f72226c{background:#1f1d1f}
 
 body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull))
@@ -51,8 +75,29 @@ body:not(.rtl) .elementor-705 .elementor-element.elementor-element-18f6597f{disp
 }
 .elementor-element-2f279aa1{display:none;}
 .elementor-element-4172e8e9{background:#fff;}
-body:not(.rtl) .elementor-807 .elementor-element.elementor-element-203eb08a{left:45px;}
+
+.elementor-887 .elementor-element.elementor-element-79431ef3{width:1345px;}
+.elementor-887 .elementor-element.elementor-element-1b8eee72{left:0px;}
+
 @media (max-width: 767px) {
+	
+	.elementor-887 .elementor-element.elementor-element-879f484 img{width:100%;height:auto;}
+	
+	body:not(.rtl) .elementor-887 .elementor-element.elementor-element-16acc9d0{left:0px;}
+	body:not(.rtl) .elementor-887 .elementor-element.elementor-element-879f484{display:none;}
+	
+body:not(.rtl) .elementor-887 .elementor-element.elementor-element-1b8eee72 {
+    left: 0px!important;
+    text-align: center;
+    width: 100%;
+    --gap: unset;
+}	
+	 
+	.elementor-887 .elementor-element.elementor-element-79431ef3{width:unset;}
+	.elementor-887 .elementor-element.elementor-element-879f484 img{width:100%;height:auto;}
+	
+	
+	body:not(.rtl) .elementor-887 .elementor-element.elementor-element-1b8eee72{left:0px!important;}
 	.elementor-711 .elementor-element.elementor-element-52f46d8{min-height:325px;}
 	.elementor-711 .elementor-element.elementor-element-55b918ce{min-height:1926px!important;}
 	body:not(.rtl) .elementor-711 .elementor-element.elementor-element-52f46d8{top:650px;}
@@ -90,7 +135,7 @@ body:not(.rtl) .elementor-807 .elementor-element.elementor-element-203eb08a{left
 	
 	
 	body:not(.rtl) .elementor-807 .elementor-element.elementor-element-203eb08a {
-    left: 0;
+   left:0px;
 		margin:auto;text-align:center;
     --gap: unset;
     --flex-direction: unset;
